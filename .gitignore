@@ -67,3 +67,5 @@ node_modules/
 
 # dataconnect generated files
 .dataconnect
+# Fitxers temporals del Mac
+.DS_Store
